@@ -1,0 +1,12 @@
+C:\Users\henrique_domareski\projetos\DesignPatterns\Solid\bin\Debug\Solid.exe.config
+C:\Users\henrique_domareski\projetos\DesignPatterns\Solid\bin\Debug\Solid.exe
+C:\Users\henrique_domareski\projetos\DesignPatterns\Solid\bin\Debug\Solid.pdb
+C:\Users\henrique_domareski\projetos\DesignPatterns\Solid\obj\Debug\Solid.csprojResolveAssemblyReference.cache
+C:\Users\henrique_domareski\projetos\DesignPatterns\Solid\obj\Debug\Solid.exe
+C:\Users\henrique_domareski\projetos\DesignPatterns\Solid\obj\Debug\Solid.pdb
+C:\Users\Henrique\source\repos\DesignPatterns\Solid\bin\Debug\Solid.exe.config
+C:\Users\Henrique\source\repos\DesignPatterns\Solid\obj\Debug\Solid.exe
+C:\Users\Henrique\source\repos\DesignPatterns\Solid\obj\Debug\Solid.pdb
+C:\Users\Henrique\source\repos\DesignPatterns\Solid\bin\Debug\SOLID.exe
+C:\Users\Henrique\source\repos\DesignPatterns\Solid\bin\Debug\SOLID.pdb
+C:\Users\Henrique\source\repos\DesignPatterns\Solid\obj\Debug\Solid.csprojResolveAssemblyReference.cache
